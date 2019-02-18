@@ -1,7 +1,7 @@
 # colorgame
 A Color Guessing game made with Javascript.
 
-A simple color guessing game that generates a random rgb color and the user has to guess the the color out of the given color tiles.
+A simple color guessing game that generates a random rgb color and the user has to guess the color from the given color tiles.
 
 There are currently two modes in the game :-
 * Easy (with 3 color tiles)
